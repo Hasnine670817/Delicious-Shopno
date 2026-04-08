@@ -1,0 +1,8 @@
+{
+  "name": "Delicious Shopno",
+  "description": "A premium, safe, and professional companionship platform for friendly conversations and emotional support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
